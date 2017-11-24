@@ -2,7 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
+<<<<<<< HEAD
         <name>ApexClass</name>  			
+=======
+        <name>ApexClass</name>
+>>>>>>> e57843ad7725ae81d9371556f3055ff89b230412
     </types>
     <types>
         <members>*</members>
