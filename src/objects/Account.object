@@ -179,6 +179,14 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Field2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field2</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Industry</fullName>
         <picklist>
             <picklistValues>
