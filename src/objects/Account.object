@@ -182,8 +182,8 @@
         <fullName>Field2__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Field2todoab</label>
 
+        <label>Field2todoab</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
