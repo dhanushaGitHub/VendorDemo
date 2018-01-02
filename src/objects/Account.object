@@ -183,8 +183,7 @@
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
 
-        <label>Field2todoa</label>
-
+        <label>Field2todoab</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
