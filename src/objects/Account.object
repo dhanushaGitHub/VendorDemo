@@ -182,11 +182,7 @@
         <fullName>Field2__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-<<<<<<< HEAD
-        <label>Field21</label>
-=======
-        <label>Field2</label>
->>>>>>> 1f428ac1c130e3fe005ea7ca6fb0b1a4d473cfa2
+        <label>Field2todo</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
