@@ -1,5 +1,5 @@
 public class Class1 {
 	
-	private String x a;
+	private String xa;
 	
 }
