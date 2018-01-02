@@ -4,4 +4,5 @@ trigger Tigger1 on Account (before insert) {
 	
 	
 	System.assert(false, 'assaaas');
+
 }
