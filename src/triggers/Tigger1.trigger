@@ -3,7 +3,7 @@ trigger Tigger1 on Account (before insert) {
 	/// 
 	
 
-	System.assert(false, 'assaaasaaaa');
+	//System.assert(false, 'assaaasaaaa');
 
 
 }
