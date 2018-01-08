@@ -26,5 +26,6 @@ private class TestCode {
         // TO DO: implement unit test
         Class1 a = new Class1();
         insert new Account(Name = 'a');
+		System.assert(false, 'ff');
     }
 }
